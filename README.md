@@ -31,8 +31,7 @@
 
 <div style="display: inline_block"><br>
   <img alt="Ash-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img alt="Ash-VUEJS" src="https://img.shields.io/badge/VUE-20232A?style=for-the-badge&logo=vue&logoColor=7D28CC" />
-  <img alt="Vini-Vue" src="https://img.shields.io/badge/-VUE-blueviolet" />
+  <img alt="VINI-VUEJS" src="https://img.shields.io/badge/VUE-20232A?style=for-the-badge&logo=vue&logoColor=blueviolet" />
 </div>
 
 <div style="display: inline_block"><br>
