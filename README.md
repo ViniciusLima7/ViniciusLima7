@@ -83,6 +83,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viniciuslima7" alt="viniciuslima7" /></a> </p>
 
+- 🔭 I’m currently working on **working**
+
+- 👯 I’m looking to collaborate on **collaborate**
+
+- 🤝 I’m looking for help with **help**
+
+- 📫 How to reach me **example@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/marcos-vinicius-lima/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/marcos-vinicius-lima/" height="30" width="40" /></a>
