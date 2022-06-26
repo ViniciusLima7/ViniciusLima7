@@ -41,20 +41,14 @@
   <img alt="Ash-sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </div>
 
-<div style="display: inline_block"><br>
-   <img alt="Ash-MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
 
 <div style="display: inline_block"><br>
   <img alt="Ash-Insomnia" src="https://img.shields.io/badge/-Insomnia-00000F?style=for-the-badge&logo=insomnia" />
   <img alt="Ash-Visual" src="https://img.shields.io/badge/-Visual%20Studio%20Code-00000F?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" />
-  <img alt="Ash-Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </div>
 
 <div style="display: inline_block"><br>
   <img alt="Ash-Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img alt="Ash-Adobe" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
-  <img alt="Ash-InVision" src="https://img.shields.io/badge/InVision-FF3366?style=for-the-badge&logo=InVision&logoColor=white"/>
 </div>
 
 <div style="display: inline_block"><br>
